@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer+Trainee;Python+%7C+FastAPI+%7C+React;Building+Scalable+Web+Applications;Exploring+LLMs+and+RAG+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer+Trainee;Python+%7C+FastAPI+%7C+React;Building+Scalable+Web+Applications" />
 </p>
 
 ## About Me
